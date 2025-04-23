@@ -1,0 +1,32 @@
+{
+  "name": "about-react",
+  "version": "1.0.0",
+  "description": "This is all about React.",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Imsaurabh31/Igniting_React_App.git"
+  },
+  "keywords": [
+    "react",
+    "namaste",
+    "saurabh"
+  ],
+  "author": "Saurabh Kumar",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.0.0"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-router-dom": "^6.22.3"
+  },
+  "browserslist": [
+    "last 2 chrome versions"
+  ]
+}
